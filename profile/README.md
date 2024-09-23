@@ -21,3 +21,4 @@ We envision a future where blockchain seamlessly powers everyday life, empowerin
 * BitCanna
 
 [0g guide here](https://medium.com/@RedeXimA/guide-to-installing-a-0g-node-7c31e0b6d686) 
+[Warden Guide here](https://medium.com/@RedeXimA/running-a-local-chain-with-warden-protocol-de380a119322)
